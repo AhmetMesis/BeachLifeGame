@@ -1,6 +1,6 @@
 # 🏖️ BeachLifeGame
 
-**BeachLifeGame**, 3 aylık bir oyun içi zaman dilimine sahip, görev tabanlı bir **cankurtaran simülasyon oyunudur**.  
+**BeachLifeGame**, görev tabanlı bir **cankurtaran simülasyon oyunudur**.  
 Oyuncu her gün farklı görevlerle karşılaşır: boğulan kişileri kurtarmak, köpek balıklarını uzaklaştırmak, sahildeki tehditleri etkisiz hale getirmek gibi.  
 
 ## 🎮 Oynanış Özellikleri
